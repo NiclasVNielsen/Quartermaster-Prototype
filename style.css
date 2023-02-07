@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+
+nav{
+    height: 100vh;
+    background: #EEE;
+    padding-right: 10px;
+}
+
+main{
+    padding-left: 10px;
+}
+
+.hide{
+    display: none !important;
+}
